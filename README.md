@@ -11,6 +11,8 @@ In this project, I have applied the skills I gained in "Introduction to Python" 
 
 This project has been aimed at consolidating my knowledge and getting a grasp of solving real-world data science problems.
 
+#### Data has been taken from [data.world](https://data.world/rezaghari/game-of-thrones)
+
 
 ## 🚀 Project Task
 #### 1. Overall Episode Duration by Season
